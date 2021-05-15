@@ -27,3 +27,5 @@ Eventually have a seperate model for reddit news
 - WSB Reddit Data
 
 Use data from kaggle https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts to train a ml model to analyze wsb posts and get a sense of market sentiment.
+
+- then stream wsb posts to a discord channel
