@@ -19,3 +19,11 @@ scan websites for news articles.
 Eventually have a seperate model for reddit news
 
 - label of interest if it contain financial terms or lingo or has implications of the financial sort.
+
+
+
+## Tasks
+
+- WSB Reddit Data
+
+Use data from kaggle https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts to train a ml model to analyze wsb posts and get a sense of market sentiment.
